@@ -29,9 +29,7 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
 5-The converted amount will be displayed instantly.
 
 ## APIs Used
-Currency API: Provides real-time currency exchange rates.
-
-Repository: mdadil2003/currency-api  
+Currency API: Provides real-time currency exchange rates. 
 
 Flags API: Provides flag images for different countries.
 
