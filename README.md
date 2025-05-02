@@ -31,7 +31,7 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
 ## APIs Used
 Currency API: Provides real-time currency exchange rates.
 
-Repository: fawazahmed0/currency-api  
+Repository: mdadil2003/currency-api  
 
 Flags API: Provides flag images for different countries.
 
