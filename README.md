@@ -22,11 +22,11 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
 
 2- Open index.html in your web browser.
 
-3-Select the base currency and target currency from the dropdown menus.
+3- Select the base currency and target currency from the dropdown menus.
 
-4-Enter the amount to convert.
+4- Enter the amount to convert.
 
-5-The converted amount will be displayed instantly.
+5- The converted amount will be displayed instantly.
 
 ## APIs Used
 Currency API: Provides real-time currency exchange rates. 
