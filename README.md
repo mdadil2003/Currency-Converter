@@ -18,7 +18,7 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/mdadil2003/Currency-Converter>
 
 2- Open index.html in your web browser.
 
